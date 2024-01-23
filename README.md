@@ -1,13 +1,21 @@
 ## Script para agregar subtitulos dentro de los videos 
 
-## Requisitos 
+## Requisitos Windows
 
 - Python3 - lo puede descargar [AQUI](https://www.python.org/downloads/)
 - MKVToolNix - lo puede descargar [AQUI](https://mkvtoolnix.download/downloads.html)
 
+## Requisitos Linux
+- Debian o Ubuntu
+```
+sudo apt install mkvtoolnix-gui
+```
+- Puede ser cualquier otro sistema operativo de su agrado
+- no meciono python en el ejemplo de intaacion en linux ya que viene intalado por defecto en la mayoria de SO
+
 ## Como usarlo
 - Descarga y guarda este script en la carpeta que mas sea de su agrado
-- en esa ubicacion donde lo guardaste abre CMD y escribe lo siguiente
+- en esa ubicacion donde lo guardaste abre CMD o Consola de su distribucion de Linux y escribe lo siguiente
 
 ```
 python subs.py 
