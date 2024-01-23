@@ -29,4 +29,12 @@ python3 subs.py
 - Windows
 - Linux
 
+## Antes
+![imagen](https://github.com/qwerty59b/SubsBatchMerge/assets/130035937/ef76414f-2fcf-4173-99c7-af536ffa9754)
+
+## Despues
+![imagen](https://github.com/qwerty59b/SubsBatchMerge/assets/130035937/590c74e2-36af-47d5-837a-63408768a3f2)
+
+
+
 
