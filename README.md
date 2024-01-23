@@ -40,6 +40,8 @@ python3 subs.py
 ## Antes
 ![imagen](https://github.com/qwerty59b/SubsBatchMerge/assets/130035937/ef76414f-2fcf-4173-99c7-af536ffa9754)
 
+- Miles de gracias a Joshua alias Cambiaformas y a Alb3rt por el subs.bat original
+
 ## Despues
 ![imagen](https://github.com/qwerty59b/SubsBatchMerge/assets/130035937/590c74e2-36af-47d5-837a-63408768a3f2)
 
