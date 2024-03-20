@@ -13,7 +13,7 @@
 sudo apt install mkvtoolnix-gui
 ```
 - Puede ser cualquier otro sistema operativo de su agrado
-- no meciono python en el ejemplo de intaacion en linux ya que viene intalado por defecto en la mayoria de SO
+- no menciono python en el ejemplo de intalacion en linux ya que viene intalado por defecto en la mayoria de SO
 
 ## Como usarlo
 - Descarga y guarda este script en la carpeta que mas sea de su agrado
